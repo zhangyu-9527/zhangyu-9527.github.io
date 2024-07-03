@@ -175,11 +175,11 @@
     
     
     <entry>
-      <title>穷开心</title>
-      <link href="/2024/05/14/%E7%A9%B7%E5%BC%80%E5%BF%83/"/>
-      <url>/2024/05/14/%E7%A9%B7%E5%BC%80%E5%BF%83/</url>
+      <title>一生有你</title>
+      <link href="/2024/05/14/%E4%B8%80%E7%94%9F%E6%9C%89%E4%BD%A0/"/>
+      <url>/2024/05/14/%E4%B8%80%E7%94%9F%E6%9C%89%E4%BD%A0/</url>
       
-        <content type="html"><![CDATA[<h1 id="穷开心"><a href="#穷开心" class="headerlink" title="穷开心"></a>穷开心</h1><!-- #<video src="[视频链接](https://www.bilibili.com/video/BV1GU4y1s7J1?t=7.7)"></video> --><!-- <video src="https://www.bilibili.com/video/BV1GU4y1s7J1?t=7.7"></video> --><iframe height=498 width=510 src="https://www.bilibili.com/video/BV1br4y1U7e4" allow="fullscreen">]]></content>
+        <content type="html"><![CDATA[<h1 id="一生有你"><a href="#一生有你" class="headerlink" title="一生有你"></a>一生有你</h1><!-- #<video src="[视频链接](https://www.bilibili.com/video/BV1GU4y1s7J1?t=7.7)"></video> --><!-- <video src="https://www.bilibili.com/video/BV1GU4y1s7J1?t=7.7"></video> --><!--<iframe height="100%" width="100%" src="https://www.bilibili.com/video/BV1GU4y1s7J1?t=7.7" allow="fullscreen" scrolling="auto">--><iframe id="iframe"        name="iframe"        height="500"        width="800"        src="https://www.bilibili.com/video/BV1GU4y1s7J1?t=7.7"        scrolling="auto"        frameborder="0"        onload="changeFrameHeight()"></iframe><script>  // 获取iframe元素  var iframe = document.getElementById('myFrame');  var iframeDoc = iframe.contentDocument || iframe.contentWindow.document; <p>  &#x2F;&#x2F; 等待iframe内容加载完成<br>  iframe.onload &#x3D; function() {<br>    &#x2F;&#x2F; 获取iframe内的视频元素<br>    var video &#x3D; iframeDoc.getElementById(‘myVideo’);</p><pre><code>// 设置视频全屏video.width = iframeDoc.body.clientWidth;video.height = iframeDoc.body.clientHeight;// 监听窗口大小改变事件window.onresize = function() &#123;  if (video) &#123;    video.width = iframeDoc.body.clientWidth;    video.height = iframeDoc.body.clientHeight;  &#125;&#125;;</code></pre><p>  };<br></script></p>]]></content>
       
       
       
@@ -188,11 +188,11 @@
     
     
     <entry>
-      <title>一生有你</title>
-      <link href="/2024/05/14/%E4%B8%80%E7%94%9F%E6%9C%89%E4%BD%A0/"/>
-      <url>/2024/05/14/%E4%B8%80%E7%94%9F%E6%9C%89%E4%BD%A0/</url>
+      <title>穷开心</title>
+      <link href="/2024/05/14/%E7%A9%B7%E5%BC%80%E5%BF%83/"/>
+      <url>/2024/05/14/%E7%A9%B7%E5%BC%80%E5%BF%83/</url>
       
-        <content type="html"><![CDATA[<h1 id="一生有你"><a href="#一生有你" class="headerlink" title="一生有你"></a>一生有你</h1><!-- #<video src="[视频链接](https://www.bilibili.com/video/BV1GU4y1s7J1?t=7.7)"></video> --><!-- <video src="https://www.bilibili.com/video/BV1GU4y1s7J1?t=7.7"></video> --><!--<iframe height="100%" width="100%" src="https://www.bilibili.com/video/BV1GU4y1s7J1?t=7.7" allow="fullscreen" scrolling="auto">--><iframe id="iframe"        name="iframe"        height="500"        width="800"        src="https://www.bilibili.com/video/BV1GU4y1s7J1?t=7.7"        scrolling="auto"        frameborder="0"        onload="changeFrameHeight()"></iframe><script>  // 获取iframe元素  var iframe = document.getElementById('myFrame');  var iframeDoc = iframe.contentDocument || iframe.contentWindow.document; <p>  &#x2F;&#x2F; 等待iframe内容加载完成<br>  iframe.onload &#x3D; function() {<br>    &#x2F;&#x2F; 获取iframe内的视频元素<br>    var video &#x3D; iframeDoc.getElementById(‘myVideo’);</p><pre><code>// 设置视频全屏video.width = iframeDoc.body.clientWidth;video.height = iframeDoc.body.clientHeight;// 监听窗口大小改变事件window.onresize = function() &#123;  if (video) &#123;    video.width = iframeDoc.body.clientWidth;    video.height = iframeDoc.body.clientHeight;  &#125;&#125;;</code></pre><p>  };<br></script></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="穷开心"><a href="#穷开心" class="headerlink" title="穷开心"></a>穷开心</h1><!-- #<video src="[视频链接](https://www.bilibili.com/video/BV1GU4y1s7J1?t=7.7)"></video> --><!-- <video src="https://www.bilibili.com/video/BV1GU4y1s7J1?t=7.7"></video> --><iframe height=498 width=510 src="https://www.bilibili.com/video/BV1br4y1U7e4" allow="fullscreen">]]></content>
       
       
       
